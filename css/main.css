@@ -1,0 +1,379 @@
+@charset "utf-8";
+
+body {
+	margin: 0px;
+	padding: 0px;
+	background-color:#eae7ea;
+}
+.header
+{
+	width:100%;
+	height:104px;
+	background-color:#bbb6b6;
+}
+.header_min
+{
+	width:1057px;
+	height:104px;
+	margin:0px auto;
+}
+.logo
+{
+	flaot:left;
+	padding:5px 0px 0px 0px;
+	margin:0px auto;
+}
+.social
+{
+	float:right;
+	margin:-6% 9%;
+}
+.social a
+{
+	margin:0px auto;
+	padding:0px;
+}
+.social_ft
+{
+	padding:9px 0px 0px 0px;
+}
+.social_ft a
+{
+	margin:0px auto;
+	padding:0px;
+}
+.menu_list
+{
+	width:100%;
+	height:51px;
+	background-color:#314468;
+}
+.menu
+{
+	width:1010px;
+	height:50px;
+	margin:0px auto;
+}
+.menu ul
+{
+	margin:0px;
+	padding:0px;
+}
+.menu ul li
+{
+	padding:10px 18px 0px 25px;
+	margin:5px auto;
+	list-style-type:none;
+	float:left;
+	}
+.menu ul li a
+{
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:17px;
+	font-weight:inherit;
+	text-decoration:none;
+	color:#FFF;
+	text-align:center;
+	padding:11px;
+}
+.menu ul li a:hover
+{
+    border-bottom: solid 4px #BEBFC5; 
+}
+.menu ul li.active > a
+{
+    border-bottom: solid 4px #BEBFC5; 
+}
+.about
+{
+	width:100%;
+	height:410px;
+}
+.about3
+{
+	width:90%;
+	height:auto;
+	padding:0px 48px 0px;
+	margin:0px auto;
+}
+.about_edu
+{
+	 margin: 0px 15%;
+     width: 83%;
+}
+.about1
+{
+	width:90%;
+	height:auto;
+	padding:0px 48px 0px;
+	margin:0px auto;
+}
+.about2
+{
+	width:90%;
+	height:auto;
+	padding:0px 48px 0px;
+}
+	
+.imgs
+{
+	width:814px;
+	height:334px;
+	margin:0px auto;
+}	
+.about_img
+{
+	float:left;
+	padding:195px 0px 0px 0px; 
+}
+.expt
+{
+	height:330px;
+	width:100%;
+}
+.about_img1
+{
+	float:left;
+	padding:15px 0px 0px 0px; 
+}
+.p5
+{
+	float:right;
+	margin:0px auto;
+	color:#FF5B0D;
+	font:"Lucida Console", Monaco, monospace;
+	font-size:25px;
+	padding:37px 300px 0px;
+}
+.p51
+{
+	margin:0px auto;
+	color:#FF5B0D;
+	font:"Lucida Console", Monaco, monospace;
+	font-size:25px;
+	padding:0px 250px 0px;
+}
+.about_img_edu
+{
+	margin:20px 32%;	
+}
+.about_img_edu1
+{
+	margin:20px 59%;	
+}
+.about_men
+{
+	float:right;
+	padding:50px 0px 0px 0px; 
+}
+.about_cont
+{
+	margin: -84px 69%;
+}
+.edu
+{
+	font-weight:bold;
+	font-size:19px;
+	font-style:italic;
+	font-family:Verdana, Geneva, sans-serif;
+	color:#517fd5;
+	margin:0px 13%;
+}
+.data_list
+{
+	width:90%;
+	height:auto;
+	margin:0px auto;
+	padding:16px;
+}
+.data_list2
+{
+	width:90%;
+	height:auto;
+	margin:0px auto;
+}
+.data_list1
+{
+	width:90%;
+	height:auto;
+	margin:0px auto;
+}
+.data
+{
+	font:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size:19px;	
+	color:#726B6F;
+	word-spacing:1px;
+	line-height:35px;
+	width:79%;
+	margin:0px auto;
+}
+.col_span
+{
+	font-size:21px;
+	color:#03C;
+}
+.edu_data
+{
+		margin:0px 15%;
+	}	
+.p1
+{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:19px;
+	color:#314468;
+	margin:0px auto;
+	line-height:35px;
+}
+.p_exp{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:19px;
+	color:#F57705;
+}
+.p11
+{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:19px;
+	color:#314468;
+}
+.p2
+{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:19px;
+	margin:5px auto;
+	color:#606163;
+}
+.p3
+{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:19px;
+	color:#314468;
+	margin:10px auto;
+	float:left;
+}
+.txt
+{
+	width:250px;
+	height:100px;
+	border-width:thin;
+	border:#999 thin 2px;
+	background-color:#CCC;
+}
+.skills_img
+{
+	float:right;
+	padding:40px;
+}
+.skills_txt
+{
+	float:left;
+}
+.skill_p
+{
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:29px;
+	font-weight:bold;
+	color:#7a7878;
+	margin:245px 6px;
+}
+.data_skill
+{
+	width:100%;
+	height:100px;
+	margin:0px auto;
+	padding:16px;
+}
+.chart
+{
+	margin: 62px 32%;
+}
+.p2_span
+{
+	color:#F60;
+}
+.contact
+{
+	width:806px;
+	padding:0px 32px;
+	margin:0px auto;
+}
+.cont_me
+{
+	padding:0px;
+}
+.conth1
+{
+	font-family: "Lucida Sans Unicode","Lucida Grande",sans-serif;
+	font-size: 29px;
+	font-weight: bold;
+	color: #7A7878;	
+}
+.port_stat
+{
+	margin:18px auto;
+}
+.port_stat1
+{
+	font-size: 19px;
+	font-family: Verdana,Geneva,sans-serif;
+	color: #854e2e;
+	margin: 11px 41%;
+}
+.a1
+{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:19px;
+	color:#09707c;
+	margin:0px auto;
+	line-height:35px;
+}
+.a2
+{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:19px;
+	margin:5px auto;
+	color:#F60;
+}
+.frod
+{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:19px;
+	margin:5px auto;
+	color:#c6311e;
+}
+.footer
+{
+	width:100%;
+	margin:0px auto;
+	height:64px;
+	background-color:#314468;
+}
+.edu_data1
+{
+	padding:15px;
+}
+.foot p
+{
+	font-size:20px;
+	color:#FFF;
+	font:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+.foot
+{
+	padding:0px;
+	float:left;
+	width:410px;
+	height:60px;
+	margin:0px 20%;
+}
+.image_port
+{
+	float: right;
+}
+@media screen and (max-width:1000px){
+
+.foot
+{
+	width:auto;
+}
+}
